@@ -1,0 +1,9 @@
+# ninja log v6
+9	212	7849992233617946	CMakeFiles/hello-world.dir/hello_world.cpp.obj	177c338c598afca8
+3	411	7849992233552858	CMakeFiles/hello-world.dir/hello_world_test.cpp.obj	4b25272e51148338
+15	1688	7849992233688091	CMakeFiles/hello-world.dir/test/tests-main.cpp.obj	7b84f7c373301b5a
+1688	2017	7849992250413190	hello-world.exe	95f9de259d6f261a
+3	209	7849992613324456	CMakeFiles/hello-world.dir/hello_world.cpp.obj	177c338c598afca8
+209	344	7849992615385372	hello-world.exe	95f9de259d6f261a
+3	486	7850005565472438	CMakeFiles/hello-world.dir/hello_world.cpp.obj	177c338c598afca8
+487	640	7850005570313181	hello-world.exe	95f9de259d6f261a
